@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment",ABC
+http://peer3.savitar.tv/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE5IDY6NDQ6MjggUE0maGFzaF92YWx1ZT1TN2tqRkhJeFZYYW1ocUxwTWxQc3BRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF:-1 group-title="Entertainment",HBO
+http://peer3.savitar.tv/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE5IDY6NDQ6MjggUE0maGFzaF92YWx1ZT1TN2tqRkhJeFZYYW1ocUxwTWxQc3BRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF:-1 group-title="Entertainment",USA Network
+http://peer2.savitar.tv/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE5IDY6NDQ6MjggUE0maGFzaF92YWx1ZT1TN2tqRkhJeFZYYW1ocUxwTWxQc3BRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF:-1 group-title="Entertainment",AMC
+http://peer2.savitar.tv/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE5IDY6NDQ6MjggUE0maGFzaF92YWx1ZT1TN2tqRkhJeFZYYW1ocUxwTWxQc3BRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF:-1 group-title="Entertainment",Oxygen
+http://live.savitar.tv/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE5IDExOjA5OjA0IFBNJmhhc2hfdmFsdWU9blljQmtJSG02OHVNZ2wrOW5lbEJxdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 group-title="Entertainment",Tru Tv
+http://peer3.savitar.tv/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE5IDExOjEwOjA0IFBNJmhhc2hfdmFsdWU9bEZSWDZreC9qaTlNNDBVdVcvK1ZaUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 group-title="Entertainment",Showtime
+http://peer3.savitar.tv/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE5IDExOjExOjI3IFBNJmhhc2hfdmFsdWU9NEVqdkJFdWwrWUw0V2JCUGcwaUdRUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 group-title="Entertainment",Starz
+http://live.savitar.tv/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE5IDExOjEyOjEzIFBNJmhhc2hfdmFsdWU9K2ZuT0loeEJZY2RDZFlnckIybG1qZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 group-title="Entertainment",FX
+http://live.savitar.tv/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE5IDExOjEzOjEyIFBNJmhhc2hfdmFsdWU9L3lBVGk4OUdsakhjQTl5aG1DZWpZdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 group-title="Entertainment",Syfy
+http://live.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE5IDExOjEzOjUyIFBNJmhhc2hfdmFsdWU9clcyN0VJdnhxRE4zdE9VN2U1QmhlUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 group-title="Entertainment",CBS
+http://peer3.savitar.tv/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE5IDExOjE1OjM0IFBNJmhhc2hfdmFsdWU9M0UyS3E0VzJJOC9sT2xDZzdoTk9jdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 group-title="Entertainment",WWE Network
+http://162.210.195.121:8080/WWETVHD/index.m3u8
+#EXTINF:-1 group-title="Entertainment",WE TV
+http://live.savitar.tv/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE5IDExOjE5OjUyIFBNJmhhc2hfdmFsdWU9V3o2MDI4NUJ3VGhueW4wcXV0UXlPQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 group-title="Entertainment",TNT
+http://peer2.savitar.tv/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE5IDExOjIxOjE1IFBNJmhhc2hfdmFsdWU9cG9tQkxiVEhESDNKZUZSSkpuREk5dz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 group-title="Entertainment",CW
+http://live.savitar.tv/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE5IDExOjI1OjU3IFBNJmhhc2hfdmFsdWU9SkpnakJPQ254MVNtMXk1Z2t6NFBNZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+
+
+
+
