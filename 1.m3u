@@ -73,7 +73,8 @@ http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxOSAxMToyNzo0MCBQTSZoYXNoX3ZhbHVlPUIzaHNLQVAxcnIwa2ZzUGpyeVJBS3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1 group-title="Kids",Cartoon Network
 http://live.savitar.tv/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxOSAxMToyNzo0MCBQTSZoYXNoX3ZhbHVlPUIzaHNLQVAxcnIwa2ZzUGpyeVJBS3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
-
+#EXTINF:-1 group-title="Kids",Rambo 2019
+ftp://192.168.0.1:21/sda1/Rambo.4K.mkv
 
 
 
